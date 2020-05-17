@@ -11,3 +11,6 @@
 4.clang++ editor.cpp
 5. ./a.out
 </pre>
+
+# Support Me :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
